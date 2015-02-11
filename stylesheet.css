@@ -1,0 +1,123 @@
+body {
+	background-image: url(jhobackground.png);
+	background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.topbar {
+	background-color: #292929;
+	width: 100%;
+	height: 100px;
+	margin: auto;
+}
+
+.backbutton {
+	width: 80px;
+	height: 40px;
+	float: left;
+	margin: 40px 20px 30px 20px;
+	position: absolute;
+	top: -35px;
+	left: -12px;
+}
+
+.backimg {
+	height: 101px;
+	width: 204px;
+	border: solid white 2px;
+}
+
+/*INDEX.HTML*/
+
+#summarybox {
+	width: 500px;
+	height: 150px;
+	margin: 120px 100px 100px 200px;
+	font-family: arial, serif;
+	font-size: 14px;
+	text-align: center;
+}
+
+#sidebar {
+	width: 160px;
+	height: 500px;
+	position: absolute;
+	right: 120px;
+	top: 80px;
+}
+
+#optionsTable {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	color: white;
+}
+
+#githubstuff {
+	margin: 5px 5px 5px 85px;
+	height: 180px;
+	width: 620px;
+	text-align: center;
+}
+
+#githubstuff p {
+	padding: 80px;
+	font-size: 20px;
+}
+
+#gitimage {
+	height: 100%;
+	float: left;
+}
+
+#githublink {
+	text-decoration: none;
+	color: #292929;
+}
+
+#githublink:hover {
+	color: black;
+}
+
+.tableOption {
+	border: 1px solid white;
+	background-color: #292929;
+}
+
+.tableOption a {
+	text-decoration: none;
+}
+
+.tableOption a:link {
+	color: white;
+}
+
+.tableOption a:hover {
+	color: white;
+}
+
+.tableOption a:visited {
+	color: white;
+}
+
+/*SKILLS.HTML*/
+
+
+
+/*TECH.HTML*/
+
+
+
+/*EXP.HTML*/
+
+
+
+/*ME.HTML*/
+
+
+
+/*CONTACT.HTML*/
+
