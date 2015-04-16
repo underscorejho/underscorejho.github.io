@@ -35,10 +35,23 @@ body {
 #summarybox {
 	width: 500px;
 	height: 150px;
-	margin: 120px 100px 100px 200px;
-	font-family: arial, serif;
-	font-size: 14px;
+	margin: 100px 90px 120px 210px;
+
+	font-family: courier new, arial, serif;
+	font-size: 16px;
 	text-align: center;
+        line-height: 120%;
+}
+
+#name{
+        font-size: 20px;
+        font-color: #292929;
+}
+
+
+#cname{
+        font-size: 20px;
+        font-color: #292929;
 }
 
 #sidebar {
@@ -57,7 +70,7 @@ body {
 }
 
 #githubstuff {
-	margin: 5px 5px 5px 85px;
+	margin: 5px 5px 5px 140px;
 	height: 180px;
 	width: 620px;
 	text-align: center;
