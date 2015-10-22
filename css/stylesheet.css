@@ -1,6 +1,6 @@
 body {
-	background-image: url(../img/jhobackground.png);
-	background-repeat: no-repeat;
+  background-image: url(../img/jhobackground.png);
+  background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -8,117 +8,117 @@ body {
 }
 
 .topbar {
-	background-color: #292929;
-	width: 100%;
-	height: 100px;
-	margin: auto;
+  background-color: #292929;
+  width: 100%;
+  height: 100px;
+  margin: auto;
 }
 
 .backbutton {
-	width: 80px;
-	height: 40px;
-	float: left;
-	margin: 40px 20px 30px 20px;
-	position: absolute;
-	top: -35px;
-	left: -12px;
+  width: 80px;
+  height: 40px;
+  float: left;
+  margin: 40px 20px 30px 20px;
+  position: absolute;
+  top: -35px;
+  left: -12px;
 }
 
 .backimg {
-	height: 101px;
-	width: 204px;
-	border: solid white 2px;
+  height: 101px;
+  width: 204px;
+  border: solid white 2px;
 }
 
 /*INDEX.HTML*/
 
 #summarybox {
-	width: 500px;
-	height: 150px;
-	margin: 100px 90px 120px 210px;
+  width: 500px;
+  height: 150px;
+  margin: 100px 90px 120px 210px;
 
-	font-family: courier new, arial, serif;
-	font-size: 16px;
-	text-align: center;
-        line-height: 120%;
+  font-family: courier new, arial, serif;
+  font-size: 16px;
+  text-align: center;
+  line-height: 120%;
 }
 
 #name{
-        font-size: 20px;
-        color: #292929;
+  font-size: 20px;
+  color: #292929;
 }
 
 
 #cname{
-        font-size: 20px;
-        color: #292929;
+  font-size: 20px;
+  color: #292929;
 }
 
 #sidebar {
-	width: 160px;
-	height: 500px;
-	position: absolute;
-	right: 120px;
-	top: 80px;
+  width: 160px;
+  height: 500px;
+  position: absolute;
+  right: 120px;
+  top: 80px;
 }
 
 #optionsTable {
-	height: 100%;
-	width: 100%;
-	text-align: center;
-	color: white;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  color: white;
 }
 
 #githubstuff {
-	margin: 5px 5px 5px 140px;
-	height: 180px;
-	width: 620px;
-	text-align: center;
+  margin: 5px 5px 5px 140px;
+  height: 180px;
+  width: 620px;
+  text-align: center;
 }
 
 #githubstuff p {
-	padding: 80px;
-	font-size: 20px;
+  padding: 80px;
+  font-size: 20px;
 }
 
 #gitimage {
-	height: 100%;
-	float: left;
+  height: 100%;
+  float: left;
 }
 
 #githublink {
-	text-decoration: none;
-	color: #292929;
+  text-decoration: none;
+  color: #292929;
 }
 
 #githublink:hover {
-	color: black;
+  color: black;
 }
 
 .tableOption {
-	border: 1px solid white;
-	background-color: #292929;
+  border: 1px solid white;
+  background-color: #292929;
 }
 
 .tableOption a {
-	text-decoration: none;
+  text-decoration: none;
 
-        display: block;
-        width: 156px;
-        height: 20px;
-        padding: 30px 0px;
+  display: block;
+  width: 156px;
+  height: 20px;
+  padding: 30px 0px;
 }
 
 .tableOption a:link {
-	color: white;
+  color: white;
 }
 
 .tableOption a:hover {
-	color: white;
+  color: white;
 }
 
 .tableOption a:visited {
-	color: white;
+  color: white;
 }
 
 /*SKILLS.HTML*/
@@ -140,34 +140,34 @@ body {
 /*CONTACT.HTML*/
 
 .contactLinks {
-       height: 220px;
-       width: 900px;
+  height: 220px;
+  width: 900px;
 
-       padding-top: 60px;
+  padding-top: 60px;
 
-       margin: auto;
-       text-align: center;
+  margin: auto;
+  text-align: center;
 }
 
 .contactSpan {
-        height: 100%;
-        width: 100%;
-     
-        margin: 30px;
+   height: 100%;
+   width: 100%;
+
+   margin: 30px;
 }
 
 .contactButton {
-        height: 100%;
-        width: 30%;
-        margin-right: 1.5%;
+   height: 100%;
+   width: 30%;
+   margin-right: 1.5%;
 }
 
 .contactButtonText {
-        padding: 12px;
-        font-weight: bold;
+   padding: 12px;
+   font-weight: bold;
 }
 
 .contactButtonImg {
-        padding: 12px;
+   padding: 12px;
 }
 
